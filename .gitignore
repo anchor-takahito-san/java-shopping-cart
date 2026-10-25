@@ -1,0 +1,13 @@
+# Java コンパイル結果
+/build/
+/bin/
+/target/
+*.class
+
+# Eclipse ワークスペース関連
+.metadata/
+.recommenders/
+
+# OSが生成する不要ファイル
+Thumbs.db
+.DS_Store
